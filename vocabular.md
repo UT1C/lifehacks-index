@@ -1,8 +1,8 @@
 # Широкий вокабуляр
 ## Фичи винды
 Они же:
-- компоненты винды
-- `OptionalFeatures.exe`
+- Компоненты винды;
+- `OptionalFeatures.exe`;
 - `Включение или отключение компонентов Windows`.
 
 ![он самый](assets/vocabular/windows-components.png)
