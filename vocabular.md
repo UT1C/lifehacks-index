@@ -4,6 +4,7 @@
 - компоненты винды
 - `OptionalFeatures.exe`
 - `Включение или отключение компонентов Windows`.
+
 ![он самый](assets/vocabular/windows-components.png)
 
 <!-- footer -->
