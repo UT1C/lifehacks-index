@@ -6,7 +6,7 @@
 - [Настройка общего доступ на папку через SMB](public/windows/01_folder_share_via_smb.md)
 
 ## Широкий вокабуляр
-- [Фичи винды](vocabular#фичи-винды)
+- [Фичи винды](vocabular.md#фичи-винды)
 
 <!-- footer -->
 ***
