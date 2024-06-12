@@ -14,7 +14,7 @@
 * `net share D=D:\ /GRANT:lightmanLP,FULL`<br/>
   `net help share`
 * Все расшеренные папки отображаются `compmgmt.msc`. Это самый простой(?) способ проверить их список и убрать всё *нинужоное* из доступа.
-* Нет, перечисленные там по умолчанию диски (`C$`, `D$`, etc) нихуя не публичные. Нет, я не буду разбираться, что значит их присутствие там.
+* Об удалении навсегда стандартных шеров для админов (с `$` в конце) [*тык*](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/remove-administrative-shares#fix-it-for-me)
 
 <!-- footer -->
 ***
